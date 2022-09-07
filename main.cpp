@@ -1,4 +1,5 @@
 //Adam Di Re 260927209, Antonia Nistor 260927440
+//adam.dire@mail.mcgill.ca, antonia.nistor@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
